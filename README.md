@@ -3,4 +3,4 @@ This is a code sample for the tutorial of universal rendering pipeline in Unity.
 
 This program is running on the Unity3D with 2019.4.13f1 version.
 
-Update to section 2: Draw Calls
+Update to section 3: Directional Lights
