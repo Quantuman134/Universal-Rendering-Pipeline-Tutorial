@@ -71,12 +71,16 @@
     <Compile Include="Assets\Custom RP\Runtime\CustomRenderPipeline.cs" />
     <Compile Include="Assets\Custom RP\Runtime\CustomRenderPipelineAsset.cs" />
     <Compile Include="Assets\Custom RP\Runtime\Lighting.cs" />
+    <Compile Include="Assets\Custom RP\Shadow\ShadowSettings.cs" />
+    <Compile Include="Assets\Custom RP\Shadow\Shadows.cs" />
     <None Include="Assets\Custom RP\ShaderLibrary\BRDF.hlsl" />
     <None Include="Assets\Custom RP\ShaderLibrary\UnityInput.hlsl" />
     <None Include="Assets\Custom RP\ShaderLibrary\Lighting.hlsl" />
     <None Include="Assets\Custom RP\ShaderLibrary\Common.hlsl" />
     <None Include="Assets\Custom RP\Shaders\Unlit.shader" />
+    <None Include="Assets\Custom RP\ShaderLibrary\Shadows.hlsl" />
     <None Include="Assets\Custom RP\ShaderLibrary\Light.hlsl" />
+    <None Include="Assets\Custom RP\Shaders\ShadowCasterPass.hlsl" />
     <None Include="Assets\Custom RP\Shaders\LitPass.hlsl" />
     <None Include="Assets\Custom RP\ShaderLibrary\Surface.hlsl" />
     <None Include="Assets\Custom RP\Shaders\Lit.shader" />

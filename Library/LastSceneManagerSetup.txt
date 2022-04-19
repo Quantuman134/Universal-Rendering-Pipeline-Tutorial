@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DirectionalLights.unity
+- path: Assets/Scenes/DirectionalShadows.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
